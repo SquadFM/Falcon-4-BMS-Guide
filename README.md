@@ -360,4 +360,4 @@ TOP BUTTON > NORM (if no external tanks exist)
 5. DOBBER > left (RTN)
 
 ## FEEDBACK
-If you spot inaccuracies [please send me a note](https://forum.falcon-bms.com/user/munster).
+If you spot inaccuracies please send me a note [in the Falcon BMS forum](https://forum.falcon-bms.com/user/munster) or on [Reddit](https://old.reddit.com/user/Munster_Squad/).
