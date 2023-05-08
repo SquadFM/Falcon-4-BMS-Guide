@@ -10,7 +10,7 @@
 - [ON RUNWAY](#on-runway)
 - [TAKEOFF](#takeoff)
 - [AIRBORNE](#airborne)
-
+- [BREVITY CODES](#brevity-codes)
 
 
 ## F-16 COLD START CHECKLIST
@@ -360,4 +360,83 @@ TOP BUTTON > NORM (if no external tanks exist)
 - HUD will show ALIGN OK
 4. Press 0 key again > DED will show "*ROLL *" (HMCS will show a cross and "FA ROLL" > align cross > press 0 key again (that's it)
 5. DOBBER > left (RTN)
+
+
+-------------------------------------
+## BREVITY CODES
+- AIMPOINT TRUE - indicates weapons have hit target with desired effects
+- ANGELS - thousands of feet ("angels ten" = 10000 feet)
+- ARIZONA - aircraft is out of anti-radiation missiles
+- AUGERED IN - an airplane has crashed into the ground
+- AZIMUTH SPLIT - multiple groups of enemy aircraft are at different bearings from the pilot
+- BANDIT - a confirmed hostile aircraft
+- BINGO - the fuel level at which the mission must be aborted in order to return to base before running out of fuel
+- BOGEY - a radar or visual contact whose identity is unknown
+- BRAA - Bearing Range Altitude Aspect
+- BUDDY SPIKE - the aircraft just locked onto us is friendly, do not fire
+- BULLSEYE - a predetermined geographic reference point used as a reference for bearing and range calls
+- BUSTER - fly at maximum possible speed
+- CAPTURED - Specified surface target has be acquired by sensor
+- CHICK - a friendly aircraft
+- CLEAN AND NAKED - no enemies on radar and no spikes on the RWR
+- CONTINUE AS FRAGGED - continue the mission as briefed
+- COVER - take a defensive position and cover the flight leader
+- DAKOTA - aircraft is out of A-G ordnance
+- DEFENSIVE - Maneuvering defensively unable to support
+- DIRT - RWR indication in search mode
+- DUCKS - missile decoys
+- EXTENDING (Direction) - Short term maneuver to gain energy
+- FOX CALLS - Launch of A/A weapons
+- FOX ONE - aircraft launched an SARH missile
+- FOX THREE - aircraft launched an AMRAAM missile
+- FOX TWO - aircraft launched an infrared missile
+- FOXTROT UNIFORM - fucked up
+- FRIENDLY - Friendly Contact
+- GOOSE EGGS - all pilots missed their targets
+- HOSTILE - Clearance to fire is authorized IAW theater ROE
+- HOUND DOG - aircraft requesting permission to engage
+- IN (Direction) - Turning towards a known threat
+- JOKER - aircraft has just enough fuel to return to base
+- JULIET SIERRA - all pilots missed their targets
+- KANSAS - aircraft is out of air-to-air ordnance
+- KNIFE FIGHT - a close-in dogfight
+- LAWN DART - an aircraft that has crashed into the ground
+- LEAKERS - enemy aircraft that have gotten past their escorts
+- MAGNUM - Launch of friendly anti-radiation missile
+- MERGE - Friendlies and targets have arrived in the visual arena
+- MIDNIGHT - AWACS can no longer provide control to friendly aircraft
+- MILLER TIME - Completion of A/S ordinance
+- MOVERS - ground vehicles
+- MUD - enemy ground radar indication on the RWR
+- MUSIC - ECM equipment is active
+- NAILED - Radar in track while attempting to secure a radar lock
+- NAILS - Radar in Search on RWR
+- NAKED - No RWR indications
+- NEUTRAL - Neutral Contact
+- NEVADA - aircraft is out of Maverick missiles
+- NO JOY - pilot cannot see the target
+- OFF DRY (Direction) - Turing away from target w/o pickle
+- OUTLAW - Likely Hostile base on point of origin
+- PLAYMATE - friendly aircraft in the pilot's mission
+- PRINT - enemy radar target has been identified
+- PUSH [channel] - Switch to designated frequency; no acknowledgment required
+- PUSHING - Departing designated point (e.g. current STPT)
+- RAY-GUN - aircraft has locked onto an unidentified target
+- REMINGTON - No ordnance except gun
+- RIFLE - Friendly launch of Mavericks
+- ROCKEYES - cluster bombs
+- SHOOTER - the aircraft designated to attack the target (as opposed to "cover")
+- SIERRA HOTEL - shit hot, a term used to describe ace pilots
+- SINGER - Known launch of S/A missile
+- SKOSH - aircraft is out of active radar missiles
+- SLAPSHOT - fire a HARM missile at a ground target
+- SNIPER - fire a HARM missile at a ground target
+- SPIKE - Radar is track on RWR
+- STROBER - Jamming Contact
+- SUNRISE - AWACS now available to provide control functions
+- TALLY - a bogey or target has been spotted
+- TANGO UNIFORM - broken or not functioning
+- TRESPASS - a friendly aircraft has entered the range of enemy SAMs
+- TUMBLEWEED - lost orientation, confused, need guidance
+- WINCHESTER - aircraft is out of all weapons
 
